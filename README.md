@@ -20,11 +20,18 @@ MySQL Workbench
 
 # DATABASE STRUCTURE
 Table 1: Franchises – some games belong to a franchise
+
 Table 2: Consoles - data for different consoles
+
 Table 3: Genres - different game genres
+
 Table 4: GameModes - different game modes
+
 Table 5: Games - game representation
 Intersection tables
+
 Table 6: Game_Consoles – Games and Consoles relationships
+
 Table 7: Game_Genres – Games and Genres relationships
+
 Table 8: Game_GameModes – Games and GameModes relationships
