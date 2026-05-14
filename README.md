@@ -9,13 +9,13 @@ MySQL Server
 MySQL Workbench
 
 # INSTALLATION
-Download MySQL
-Download MySQL Workbench
-https://dev.mysql.com/downloads/workbench/
-Run SQL files in MySQL Workbench in order:
-Create_Database_Team4.sql
-Populate_Database_Team4.sql
-Query_Database_Team4.sql
+1. Download MySQL
+2. Download MySQL Workbench
+3. https://dev.mysql.com/downloads/workbench/
+4. Run SQL files in MySQL Workbench in order:
+5. Create_Database_Team4.sql
+6. Populate_Database_Team4.sql
+7. Query_Database_Team4.sql
 
 # DATABASE STRUCTURE
 Table 1: Franchises – some games belong to a franchise
