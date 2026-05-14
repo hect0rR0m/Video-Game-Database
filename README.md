@@ -6,6 +6,7 @@ The Video Game Database consists of 8 different tables with 10 different feature
  
 # REQUIREMENTS
 MySQL Server
+
 MySQL Workbench
 
 # INSTALLATION
